@@ -1,0 +1,10 @@
+#Data
+/tables
+*.csv
+
+
+# Office Temp Files
+~$*
+
+#Jupyter files
+.ipynb_checkpoints/
