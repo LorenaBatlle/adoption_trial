@@ -1,6 +1,6 @@
 ## Introduction
 
-This project has the purpose of showing some of my hard and comms skills. It gives a big picture about how I achieve some insights, it is not looking for the best performance or a complete project process.
+This project has the purpose of showing some of my hard and communications skills. It gives a big picture about how I achieve some insights; it is not looking for the best performance or a complete project process.
 
 
 ## Main problem goal
@@ -22,3 +22,22 @@ Users who started trial during December 2020.
 
 
 ## Project structure
+The project has 3 main files numbered from 1 to 3; I recommend that order to read it. 
+
+1-Generate_dataset: in this file I generate the dataset from two tables with the data (it is not in the project because of privacy reasons). Contains data analysis, some feature engineering and dummy transformations.
+2-Decision_tree: in this file I generate a basic decision tree in order to:
+  - validate the data, check if the main features could have future information.
+  - get insights, considering a simple structure.
+  - obtain a roc benchmark.
+3-Train: in this file I train a potential model, as I said, not aiming for the best performance.
+
+Finally, there is one more file with some common functions for general usage.
+
+## Project dependencies
+- python 3.0
+- pandas
+- sklearn
+- numpy
+- graphviz
+- matplotlib
+- xgboost
