@@ -1,6 +1,6 @@
 ## Introduction
 
-This project has the purpose of showing some of my hard and communications skills. It gives a big picture about how I achieve some insights; it is not looking for the best performance or a complete project process.
+This project has the purpose of showing some of my hard and communication skills. It gives a big picture about how I achieve some insights; it is not looking for the best performance or a complete project process.
 
 
 ## Main problem goal
